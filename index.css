@@ -1,0 +1,14 @@
+body {
+    background-color: #ddd;
+}
+.lazyload_box{
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    padding-bottom: 100px;
+}
+.lazy_img {
+    border-radius: 10px;
+    opacity:0;
+    transition: all 1s;
+}
